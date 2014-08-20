@@ -8,7 +8,7 @@ setup(
     packages=['opensprinklerlib', 'opensprinklerlib.controller'],
     url='http://pypi.python.org/pypi/OpenSprinklerLib/',
     license='LICENSE.txt',
-    description='OpenSprinkler Library and demos.',
+    description='OpenSprinkler Library',
     long_description=open('README.md').read(),
     classifiers=[
             "Development Status :: 3 - Alpha",
